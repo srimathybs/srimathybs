@@ -1,4 +1,7 @@
 ## Hi there 👋
+I am SrimathyBS...
+Software Engineering undergraduate passionate about building intelligent, scalable, and user-centric software solutions. Experienced in developing full-stack applications, AI-powered systems, and machine learning solutions using Python, Java, Flask, SQL, and modern AI frameworks. Strong foundation in data structures, algorithms, and software development, with hands-on experience delivering real-world projects in Generative AI, NLP, computer vision, and healthcare technology. Continuously learning and driven to solve complex engineering problems through innovation and clean software design.
+
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
